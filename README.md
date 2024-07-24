@@ -1,16 +1,9 @@
-# el3salta
 
-A new Flutter project.
+# Football Teams Generator
+This is a Flutter application for generating random football teams based on user input. The application allows users to enter the number of teams, goalkeepers, and attackers, then divides the players accordingly and displays the team formations on separate screens with a football field background.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features
+1- Input the number of teams, goalkeepers, and attackers.
+2- Randomly assign players to the specified number of teams.
+3- Display each team's formation on a separate screen.
+4- View a random first match pairing.
